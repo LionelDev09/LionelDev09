@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://lionel-agondanou.dev">
+  <a href="https://lionel-agondanou.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:lioneldev09@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/LionelDev09">
